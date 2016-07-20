@@ -1,0 +1,11 @@
+{
+  "name": "bubble",
+  "version": "0.0.1-alpha",
+  "ignore": [
+    "css",
+    "fonts",
+    "img",
+    "bower.json",
+    "index.html"
+  ]
+}
